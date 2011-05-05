@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import urllib2
-import sys
 from configobj import ConfigObj
 from googlevoice import Voice
 
